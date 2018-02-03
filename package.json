@@ -1,15 +1,13 @@
 {
   "name": "acenotes",
-  "version": "1.0.0",
   "description": "ProjectAce",
+  "version": "0.0.0",
   "main": "app.js",
-  "dependencies": {
-    "discord.js": "^11.3.0"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
-  "author": "AceOfSpades",
-  "license": "ISC"
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
 }
