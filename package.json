@@ -2,7 +2,7 @@
   "name": "acenotes",
   "version": "1.0.0",
   "description": "ProjectAce",
-  "main": "app.js",
+  "main": "bot.js",
   "dependencies": {
     "discord.js": "^11.3.0"
   },
